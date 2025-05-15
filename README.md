@@ -28,6 +28,7 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NanaBz&layout=compact&theme=dark)
 
+![GitHub Contribution Snake Dark](https://raw.githubusercontent.com/NanaBz/NanaBz/output/github-contribution-grid-snake-dark.svg)
 
 
 ### 📌 Open to:
