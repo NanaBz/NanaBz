@@ -1,16 +1,12 @@
-## Hi there 👋
+💻 Frontend Developer | Cloud Engineering Enthusiast  
+🎨 Passionate about building sleek, scalable, and responsive UIs using modern JavaScript frameworks.  
+🔗 Skilled in API integration, Git workflows, team collaboration, and performance-oriented frontend architecture.  
+🌍 Current Project: PEBN Resume Analyzer – delivering UI and API logic for intelligent resume-to-job analysis.
 
-<!--
-**NanaBz/NanaBz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🧰 Tech Stack:  
+React.js • TailwindCSS • JavaScript • Node.js • Express • Axios • MongoDB • RESTful APIs • Git & GitHub • Vite • ESLint • Prettier
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📌 Open to:  
+• Frontend roles with real product impact  
+• Full-stack opportunities with growth in cloud deployment  
+• Collaborative, remote-friendly teams
