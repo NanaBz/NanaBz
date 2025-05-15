@@ -23,9 +23,11 @@
 
 ---
 
-![NanaBz's GitHub stats](https://github-readme-stats.vercel.app/api?username=NanaBz&show_icons=true&theme=radical)
+![NanaBz's GitHub stats](https://github-readme-stats.vercel.app/api?username=NanaBz&show_icons=true&theme=dark)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NanaBz&layout=compact&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NanaBz&layout=compact&theme=dark)
+
 
 
 ### 📌 Open to:
