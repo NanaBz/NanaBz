@@ -23,6 +23,11 @@
 
 ---
 
+![NanaBz's GitHub stats](https://github-readme-stats.vercel.app/api?username=NanaBz&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NanaBz&layout=compact&theme=radical)
+
+
 ### 📌 Open to:
 - 💼 Frontend roles with real product impact  
 - 🌐 Full-stack opportunities with growth in cloud deployment  
