@@ -3,7 +3,7 @@
 💻 **Frontend Developer | Cloud Engineering Enthusiast**  
 🎨 Passionate about building sleek, scalable, and responsive UIs using modern JavaScript frameworks.  
 🔗 Skilled in API integration, Git workflows, team collaboration, and performance-oriented frontend architecture.  
-🌍 **Current Project:** _PEBN Resume Analyzer_ – delivering UI and API logic for intelligent resume-to-job analysis.
+🌍 **Current Project:** Acity League Scheduler - A league scheduler system using Circle method and double round robin
 
 ---
 
