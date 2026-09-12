@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 96" fill="none" role="img" aria-label="Narrative path: Ideas to Writing to Computer Science to Building to Problem Solving to Data to What's Next">
+  <rect width="1200" height="96" rx="12" fill="#141418" stroke="#f2efe9" stroke-opacity="0.08"/>
+
+  <g font-family="Segoe UI, system-ui, sans-serif" font-size="15" font-weight="600">
+    <text x="36" y="42" fill="#f2efe9">Ideas</text>
+    <text x="108" y="42" fill="#6b6762">’</text>
+    <text x="132" y="42" fill="#f2efe9">Writing</text>
+    <text x="222" y="42" fill="#6b6762">’</text>
+    <text x="246" y="42" fill="#f2efe9">Computer Science</text>
+    <text x="430" y="42" fill="#6b6762">’</text>
+    <text x="454" y="42" fill="#f2efe9">Building</text>
+    <text x="548" y="42" fill="#6b6762">’</text>
+    <text x="572" y="42" fill="#f2efe9">Problem Solving</text>
+    <text x="736" y="42" fill="#6b6762">’</text>
+    <text x="760" y="42" fill="#e8a849">Data</text>
+    <text x="812" y="42" fill="#6b6762">’</text>
+    <text x="836" y="42" fill="#f2efe9">What's Next</text>
+  </g>
+
+  <text x="36" y="72" fill="#9b9690" font-family="Segoe UI, system-ui, sans-serif" font-size="14">Building with technology · Thinking with data · Creating with imagination</text>
+</svg>

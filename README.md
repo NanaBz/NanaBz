@@ -1,17 +1,19 @@
-### Hi there 👋, I'm Nanakwaku
+![Nanakwaku Boakye-Akyeampong — Aspiring Data Scientist, Creative Problem Solver, Builder](./assets/header-banner.svg)
 
-**Aspiring Data Scientist | Creative Problem Solver | Builder**
+### Hi there 👋, I'm Nanakwaku
 
 I notice problems, think about what is possible, and use technology to turn ideas into something real.  
 Computer Science graduate · building toward **Data Science** as my career direction.  
 Interested in **data**, **technology**, **football**, and **writing** — not as separate worlds, but as parts of how I think.  
 Technology is one of the tools I use. The point is always the problem, the idea, and what comes next.
 
-> *I have a lot of ideas. I do something about them.*
+![Narrative path — Ideas to Data Science direction](./assets/narrative-path.svg)
 
 ---
 
 ### ⚡ Featured Project
+
+[![League Scheduler — featured project card](./assets/featured-league-scheduler.svg)](https://github.com/NanaBz/League-Scheduler)
 
 **[League Scheduler](https://github.com/NanaBz/League-Scheduler)** · [Live](https://league-scheduler-bqav.vercel.app/)
 
@@ -22,8 +24,6 @@ What began as a scheduling fix grew into a broader school football ecosystem —
 ---
 
 ### 🛠 Selected Work
-
-Building with technology. Thinking with data. Creating with imagination.
 
 | # | Project | What it is |
 |---|---------|------------|
@@ -72,7 +72,7 @@ Building with technology. Thinking with data. Creating with imagination.
 
 ### 📈 Where I'm heading
 
-**See. Think. Do.** — with data in the middle.
+![Data Science direction — See, Think, Data, Do](./assets/data-direction.svg)
 
 I'm developing toward **Data Science** because I naturally look for problems and want to understand **why** they happen, not just build around their symptoms. That means data analysis, machine learning with Python, stronger statistical thinking, and building models with awareness of their limits — including representation, evaluation, and responsible AI.
 
@@ -80,10 +80,7 @@ I'm developing toward **Data Science** because I naturally look for problems and
 
 ### 🌱 Beyond the screen
 
-⚽ **Football** — competition, strategy, and community; the same world that led to League Scheduler  
-✍️ **Writing** — story ideas I want to see become animation someday  
-🎮 **Gaming** — interactive systems, competition, and immersive worlds  
-💡 **Ideas** — identifying problems and doing something about them
+![Football, Writing, Gaming, Ideas](./assets/interests-strip.svg)
 
 ---
 
@@ -103,7 +100,7 @@ I'm developing toward **Data Science** because I naturally look for problems and
 
 ### 📫 Connect
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-0c0c0e?style=flat&logo=vercel&logoColor=white)](https://personal-portfolio-seven-rho-35.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-0c0c0e?style=flat&logo=vercel&logoColor=E8A849)](https://personal-portfolio-seven-rho-35.vercel.app/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/NanaBz)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nanakwaku-boateng-boakye-akyeampong)
 
