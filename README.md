@@ -1,19 +1,17 @@
-![Nanakwaku Boakye-Akyeampong — Aspiring Data Scientist, Creative Problem Solver, Builder](./assets/header-banner.svg)
-
 ### Hi there 👋, I'm Nanakwaku
+
+**Aspiring Data Scientist | Creative Problem Solver | Builder**
 
 I notice problems, think about what is possible, and use technology to turn ideas into something real.  
 Computer Science graduate · building toward **Data Science** as my career direction.  
 Interested in **data**, **technology**, **football**, and **writing** — not as separate worlds, but as parts of how I think.  
 Technology is one of the tools I use. The point is always the problem, the idea, and what comes next.
 
-![Narrative path — Ideas to Data Science direction](./assets/narrative-path.svg)
+> *I have a lot of ideas. I do something about them.*
 
 ---
 
 ### ⚡ Featured Project
-
-[![League Scheduler — featured project card](./assets/featured-league-scheduler.svg)](https://github.com/NanaBz/League-Scheduler)
 
 **[League Scheduler](https://github.com/NanaBz/League-Scheduler)** · [Live](https://league-scheduler-bqav.vercel.app/)
 
@@ -24,6 +22,8 @@ What began as a scheduling fix grew into a broader school football ecosystem —
 ---
 
 ### 🛠 Selected Work
+
+Building with technology. Thinking with data. Creating with imagination.
 
 | # | Project | What it is |
 |---|---------|------------|
@@ -72,7 +72,7 @@ What began as a scheduling fix grew into a broader school football ecosystem —
 
 ### 📈 Where I'm heading
 
-![Data Science direction — See, Think, Data, Do](./assets/data-direction.svg)
+**See. Think. Do.** — with data in the middle.
 
 I'm developing toward **Data Science** because I naturally look for problems and want to understand **why** they happen, not just build around their symptoms. That means data analysis, machine learning with Python, stronger statistical thinking, and building models with awareness of their limits — including representation, evaluation, and responsible AI.
 
@@ -80,11 +80,27 @@ I'm developing toward **Data Science** because I naturally look for problems and
 
 ### 🌱 Beyond the screen
 
-![Football, Writing, Gaming, Ideas](./assets/interests-strip.svg)
+⚽ **Football** — competition, strategy, and community; the same world that led to League Scheduler  
+✍️ **Writing** — story ideas I want to see become animation someday  
+🎮 **Gaming** — interactive systems, competition, and immersive worlds  
+💡 **Ideas** — identifying problems and doing something about them
 
 ---
 
-### 📊 Activity
+### 📊 GitHub Activity
+
+![Profile views](https://komarev.com/ghpvc/?username=NanaBz&label=Profile%20views&color=e8a849&style=flat)
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NanaBz&theme=github_dark)
+
+<p align="center">
+  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=NanaBz&theme=github_dark" alt="GitHub stats" />
+  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=NanaBz&theme=github_dark" alt="Most commit language" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=NanaBz&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&ring=e8a849&fire=e8a849&currStreakLabel=e8a849" alt="GitHub streak stats" />
+</p>
 
 ![GitHub Contribution Snake Dark](https://raw.githubusercontent.com/NanaBz/NanaBz/output/github-contribution-grid-snake-dark.svg)
 
@@ -100,7 +116,7 @@ I'm developing toward **Data Science** because I naturally look for problems and
 
 ### 📫 Connect
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-0c0c0e?style=flat&logo=vercel&logoColor=E8A849)](https://personal-portfolio-seven-rho-35.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-0c0c0e?style=flat&logo=vercel&logoColor=white)](https://personal-portfolio-seven-rho-35.vercel.app/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/NanaBz)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nanakwaku-boateng-boakye-akyeampong)
 
